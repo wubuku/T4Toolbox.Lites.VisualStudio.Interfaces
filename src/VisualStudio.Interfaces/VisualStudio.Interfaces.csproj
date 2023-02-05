@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>T4Toolbox.Lites.VisualStudio.Interfaces</AssemblyName>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>T4Toolbox.Lites.VisualStudio.Interfaces</PackageId>
+    <Version>0.0.2</Version>
+    <Authors>Yang Jiefeng</Authors>
+    <!--<Company>your_company</Company>-->
+    <PackageProjectUrl>https://github.com/wubuku/VisualStudioTextTransform</PackageProjectUrl>
+    <Description>Part of interfaces extracted from Microsoft's assemblies (`Microsoft.VisualStudio.Shell.Interop.dll`, `EnvDTE.dll`).</Description>
+    <PackageTags>Microsoft VisualStudio Shell.Interop EnvDTE </PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
