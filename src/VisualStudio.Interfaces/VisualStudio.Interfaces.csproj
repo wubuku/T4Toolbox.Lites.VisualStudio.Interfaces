@@ -13,7 +13,7 @@
     <Version>0.0.2</Version>
     <Authors>Yang Jiefeng</Authors>
     <!--<Company>your_company</Company>-->
-    <PackageProjectUrl>https://github.com/wubuku/VisualStudioTextTransform</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/wubuku/T4Toolbox.Lites.VisualStudio.Interfaces</PackageProjectUrl>
     <Description>Part of interfaces extracted from Microsoft's assemblies (`Microsoft.VisualStudio.Shell.Interop.dll`, `EnvDTE.dll`).</Description>
     <PackageTags>Microsoft VisualStudio Shell.Interop EnvDTE </PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
